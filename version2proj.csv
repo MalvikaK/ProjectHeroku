@@ -1,0 +1,53 @@
+UserID;ProductID;Prediction;brand_name;Category
+300016375;579;0.4600985;Chanel;earrings
+300016375;398;0.4559843;Chanel;necklace
+300016375;318;0.44764912;Chanel;lipstick
+300016375;775;0.40191394;Dolce & Gabbana;necklace
+300016375;1911;0.39080176;Yves Saint Laurent;shoes
+304434900;1185;0.41495937;Christian Dior;shoes
+304434900;660;0.38909197;Dolce & Gabbana;lipstick
+304434900;687;0.38553897;Dolce & Gabbana;lipstick
+304434900;1694;0.37501258;Versace;shoes
+304434900;2140;0.3641543;Yves Saint Laurent;boots
+304434900;2013;0.35311177;Yves Saint Laurent;handbag
+308660401;1464;0.45868507;Christian Dior;watches
+308660401;973;0.40732133;Gucci;handbag
+308660401;292;0.39968827;Chanel;lipstick
+308660401;731;0.3892629;Dolce & Gabbana;handbag
+308660401;1230;0.38722658;Christian Dior;lipstick
+310843802;2137;0.34971645;Yves Saint Laurent;boots
+310843802;1717;0.34617135;Versace;handbag
+310843802;1689;0.33234674;Versace;shoes
+310843802;520;0.3304266;Chanel;boots
+310843802;1843;0.32147497;Versace;bracelet
+312739061;2119;0.37691125;Yves Saint Laurent;bracelet
+312739061;1095;0.36940023;Gucci;ring
+312739061;2069;0.36915296;Yves Saint Laurent;nail polish
+312739061;284;0.3523068;Chanel;shoes
+312739061;398;0.3311732;Chanel;necklace
+317117656;896;0.40544906;Gucci;shoes
+317117656;1432;0.37771147;Christian Dior;watches
+317117656;186;0.36601034;Christian Louboutin;nail polish
+317117656;1557;0.363375;Christian Dior;bracelet
+317117656;1513;0.3585924;Christian Dior;ring
+317117656;2008;0.35599586;Yves Saint Laurent;handbag
+317570835;1185;0.58153206;Christian Dior;shoes
+317570835;212;0.50281465;Christian Louboutin;boots
+317570835;1350;0.49365127;Christian Dior;handbag
+317570835;651;0.3622981;Dolce & Gabbana;shoes
+317570835;322;0.357198;Chanel;handbag
+318517350;2154;0.515906;Yves Saint Laurent;boots
+318517350;682;0.49712142;Dolce & Gabbana;lipstick
+318517350;1199;0.4684853;Christian Dior;shoes
+318517350;1291;0.4420378;Christian Dior;handbag
+318517350;1223;0.4318483;Christian Dior;shoes
+319151414;1391;0.56475717;Christian Dior;necklace
+319151414;931;0.53622353;Gucci;lipstick
+319151414;2183;0.50004756;Yves Saint Laurent;earrings
+319151414;1857;0.43683404;Versace;bracelet
+319151414;156;0.39877248;Christian Louboutin;handbag
+320997455;2146;0.50618684;Yves Saint Laurent;boots
+320997455;1807;0.4699892;Versace;watches
+320997455;468;0.4253777;Chanel;watches
+320997455;2133;0.4247751;Yves Saint Laurent;bracelet
+320997455;353;0.4218867;Chanel;handbag
